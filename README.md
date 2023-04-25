@@ -37,9 +37,9 @@ Final Project
 
 ## Links
 
-Github Repo: 
+Github Repo: https://github.com/EliKowal/Final-Store
 
-Github Pages: 
+Github Pages: https://elikowal.github.io/Final-Store/
 
 CSS-Layout: https://startbootstrap.com/template/shop-homepage
 
